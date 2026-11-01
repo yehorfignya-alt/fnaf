@@ -39,3 +39,42 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.collection_list {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+.articleToy {
+    width: 348px;
+    height: 480px;
+    background-color: red;
+}
+
+.articleToy1 {
+background-color: rgba(138, 104, 36, 0.9);
+}
+
+.articleToy2{
+background-color: rgba(102, 176, 189, 90%);
+}
+.articleToy3{
+    background-color: rgba(229, 222, 11, 0.9);
+}
+
+.text1{
+ color: rgb(0, 26, 255);
+    text-decoration: none;
+    font-size: 10px ;
+    
+     font-family: "Archivo Black", sans-serif;
+}
+
+.ul1{
+    color: rgb(0, 26, 255);
+    text-decoration: none;
+    font-size: 10px ;
+    
+     font-family: "Archivo Black", sans-serif;
+}
